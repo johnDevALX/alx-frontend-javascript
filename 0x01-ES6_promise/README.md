@@ -1,0 +1,1 @@
+EcmaScript task 2
